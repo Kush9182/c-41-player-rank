@@ -1,1 +1,2 @@
-# c-41-player-rank
+# synchronousBallMovement
+Ball moving synchronously
